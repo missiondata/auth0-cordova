@@ -1,0 +1,12 @@
+{
+  "//": "experimental bower support",
+  "name": "auth0-cordova",
+  "main": "src/index.js",
+  "dependencies": {
+    "auth0-js": "^8.5.0",
+    "url-parse": "^1.1.8"
+   },
+  "ignore": [
+    "test"
+  ]
+}
